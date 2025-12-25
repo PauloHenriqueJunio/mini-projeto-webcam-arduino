@@ -1,0 +1,7 @@
+{
+  "python.defaultInterpreterPath": "C:/Users/paulo/Desktop/Arduino teste/.venv/Scripts/python.exe",
+  "code-runner.executorMap": {
+    "python": "\"C:/Users/paulo/Desktop/Arduino teste/.venv/Scripts/python.exe\""
+  },
+  "code-runner.runInTerminal": true
+}
